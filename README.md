@@ -6,7 +6,7 @@ version of realm-java can be changed in top level build.gradle.
 
 # How it works?
 
-To test to be run is `ExampleInstrumentedTest`. It creates a fresh new realm db containing 150k rows of a fake model filled with random data (`Model0`), and then measure the average duration of X query.
+The test to be run is `ExampleInstrumentedTest`. It creates a fresh new realm db containing 150k rows of a fake model filled with random data (`Model0`), and then measure the average duration of X query.
 
 # Results
 
